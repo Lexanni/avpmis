@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab_3.srcs/sim_1/imports/new/look_ahead_carry_serial.vhd" \
+"../../../../Lab_3.srcs/sim_1/new/testbench_lab_1_from_file.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tfbg676-2" LaunchTime="1469809640">
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="OPT-DCP" Name="test_bench_opt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="PWROPT-DCP" Name="test_bench_pwropt.dcp"/>
+  <File Type="OPT-DRC" Name="test_bench_drc_opted.rpt"/>
+  <File Type="ROUTE-DCP" Name="test_bench_routed.dcp"/>
+  <File Type="PA-TCL" Name="test_bench.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-HWDEF" Name="test_bench.hwdef"/>
+  <File Type="PLACE-DCP" Name="test_bench_placed.dcp"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="test_bench_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="test_bench_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="test_bench_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="test_bench.vdi"/>
+  <File Type="ROUTE-TIMING-PB" Name="test_bench_timing_summary_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="test_bench_postroute_physopt.dcp"/>
+  <File Type="BG-BIT" Name="test_bench.bit"/>
+  <File Type="BG-BIN" Name="test_bench.bin"/>
+  <File Type="BITSTR-MSK" Name="test_bench.msk"/>
+  <File Type="BITSTR-RBT" Name="test_bench.rbt"/>
+  <File Type="BITSTR-NKY" Name="test_bench.nky"/>
+  <File Type="BITSTR-BMM" Name="test_bench_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="test_bench.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="test_bench.sysdef"/>
+  <File Type="BG-BGN" Name="test_bench.bgn"/>
+  <File Type="BG-DRC" Name="test_bench.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/look_ahead_carry.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/test_bench.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="test_bench"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

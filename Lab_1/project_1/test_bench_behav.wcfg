@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="test_bench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="265800001fs"></ZoomEndTime>
+      <Cursor1Time time="3000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="101"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/test_bench/n_G0" type="logic">
+      <obj_property name="ElementShortName">n_G0</obj_property>
+      <obj_property name="ObjectShortName">n_G0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_G1" type="logic">
+      <obj_property name="ElementShortName">n_G1</obj_property>
+      <obj_property name="ObjectShortName">n_G1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_G2" type="logic">
+      <obj_property name="ElementShortName">n_G2</obj_property>
+      <obj_property name="ObjectShortName">n_G2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_G3" type="logic">
+      <obj_property name="ElementShortName">n_G3</obj_property>
+      <obj_property name="ObjectShortName">n_G3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_P0" type="logic">
+      <obj_property name="ElementShortName">n_P0</obj_property>
+      <obj_property name="ObjectShortName">n_P0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_P1" type="logic">
+      <obj_property name="ElementShortName">n_P1</obj_property>
+      <obj_property name="ObjectShortName">n_P1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_P2" type="logic">
+      <obj_property name="ElementShortName">n_P2</obj_property>
+      <obj_property name="ObjectShortName">n_P2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_P3" type="logic">
+      <obj_property name="ElementShortName">n_P3</obj_property>
+      <obj_property name="ObjectShortName">n_P3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/Cn" type="logic">
+      <obj_property name="ElementShortName">Cn</obj_property>
+      <obj_property name="ObjectShortName">Cn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/Cn_x" type="logic">
+      <obj_property name="ElementShortName">Cn_x</obj_property>
+      <obj_property name="ObjectShortName">Cn_x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/Cn_y" type="logic">
+      <obj_property name="ElementShortName">Cn_y</obj_property>
+      <obj_property name="ObjectShortName">Cn_y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/Cn_z" type="logic">
+      <obj_property name="ElementShortName">Cn_z</obj_property>
+      <obj_property name="ObjectShortName">Cn_z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_G" type="logic">
+      <obj_property name="ElementShortName">n_G</obj_property>
+      <obj_property name="ObjectShortName">n_G</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/n_P" type="logic">
+      <obj_property name="ElementShortName">n_P</obj_property>
+      <obj_property name="ObjectShortName">n_P</obj_property>
+   </wvobject>
+</wave_config>

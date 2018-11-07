@@ -1,0 +1,18 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity eight_bits_binary_counter
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:62]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:63]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:64]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:65]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:66]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:67]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:68]
+WARNING: [VRFC 10-280] actual for formal port k is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:69]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:90]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:91]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:92]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:93]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:94]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:95]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:96]
+WARNING: [VRFC 10-280] actual for formal port c is neither a static name nor a globally static expression [C:/Users/user/YandexDisk/labs/apvmis/Lab_3/Lab_3.srcs/sim_1/new/eight_bits_binary_counter.vhd:97]

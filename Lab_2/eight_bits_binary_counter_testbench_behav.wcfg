@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="eight_bits_binary_counter_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="eight_bits_binary_counter_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="128200001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="149"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/vec" type="array">
+      <obj_property name="ElementShortName">vec[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vec[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/CCLR" type="logic">
+      <obj_property name="ElementShortName">CCLR</obj_property>
+      <obj_property name="ObjectShortName">CCLR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/CCKEN" type="logic">
+      <obj_property name="ElementShortName">CCKEN</obj_property>
+      <obj_property name="ObjectShortName">CCKEN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/CCK" type="logic">
+      <obj_property name="ElementShortName">CCK</obj_property>
+      <obj_property name="ObjectShortName">CCK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/CLOAD" type="logic">
+      <obj_property name="ElementShortName">CLOAD</obj_property>
+      <obj_property name="ObjectShortName">CLOAD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/RCK" type="logic">
+      <obj_property name="ElementShortName">RCK</obj_property>
+      <obj_property name="ObjectShortName">RCK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/RCO" type="logic">
+      <obj_property name="ElementShortName">RCO</obj_property>
+      <obj_property name="ObjectShortName">RCO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vD_Q" type="array">
+      <obj_property name="ElementShortName">vD_Q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vD_Q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vD_nQ" type="array">
+      <obj_property name="ElementShortName">vD_nQ[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vD_nQ[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vRS_Q" type="array">
+      <obj_property name="ElementShortName">vRS_Q[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vRS_Q[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vRS_nQ" type="array">
+      <obj_property name="ElementShortName">vRS_nQ[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vRS_nQ[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vCR" type="array">
+      <obj_property name="ElementShortName">vCR[6:0]</obj_property>
+      <obj_property name="ObjectShortName">vCR[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vR_in" type="array">
+      <obj_property name="ElementShortName">vR_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vR_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/vS_in" type="array">
+      <obj_property name="ElementShortName">vS_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vS_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/eight_bits_binary_counter_testbench/ebbc/SH_CLK" type="logic">
+      <obj_property name="ElementShortName">SH_CLK</obj_property>
+      <obj_property name="ObjectShortName">SH_CLK</obj_property>
+   </wvobject>
+</wave_config>

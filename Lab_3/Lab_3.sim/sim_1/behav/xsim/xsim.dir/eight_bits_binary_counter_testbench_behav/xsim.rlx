@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2880800335541567072  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 8eb774812d074179bece6e883e79f142 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot eight_bits_binary_counter_testbench_behav xil_defaultlib.eight_bits_binary_counter_testbench" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/eight_bits_binary_counter_testbench_behav/xsimk.exe\"   \"xsim.dir/eight_bits_binary_counter_testbench_behav/obj/xsim_0.win64.obj\" \"xsim.dir/eight_bits_binary_counter_testbench_behav/obj/xsim_1.win64.obj\" \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
